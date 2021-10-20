@@ -1,0 +1,20 @@
+body{
+background-color:#D71920;
+}
+div.left {
+float: left;
+width: 700px;
+height: 600;
+color: white;
+}
+div.right {
+float: right;
+width: 700px;
+color: white;
+background-color: #11336A;
+height: 600px;
+}
+div.header {
+background-color: white;
+width: 100%;
+}
