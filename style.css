@@ -3,9 +3,10 @@ background-color:#D71920;
 }
 div.left {
 float: left;
-width: 700px;
+width: 535px;
 height: 600;
 color: white;
+font-size: 40;
 }
 div.right {
 float: right;
@@ -13,8 +14,25 @@ width: 700px;
 color: white;
 background-color: #11336A;
 height: 600px;
+font-size: 35px;
+text-align: center;
 }
 div.header {
 background-color: white;
 width: 100%;
+height: 10%;
+font-size:50px;
+text-align: center;
+}
+a:visited{
+color:lightgrey;
+}
+a:link{
+color: lightgrey;
+}
+a:link{
+text-decoration: none;
+}
+a:visited{
+text-decoration: none;
 }
